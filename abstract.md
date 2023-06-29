@@ -19,13 +19,21 @@ Dakota Blair, Computational Science Initiative, Brookhaven National Laboratory, 
 ### 3. Text:
 <font size ="3">Introduction (what is the greater context? Why you are doing this work?):</font> 
 
-his project aims to contribute novel applications and methods to KBase by creating a KBase module and its reports. KBase is the Department of Enegery Systems Biology Knowledgebase(KBase), an open source project enabling collaborative bioinformatics data processing and supporting reproducible science. There are many different components that comprise of KBase. KBase consists of narratives, apps, and modules
+KBase is the Department of Energy Systems Biology Knowlegebase(KBase). KBase is an open source project enabling collaborative bioinformatics data processing and supporting reproducible science. There are many different components that comprise of KBase. KBase consists of narratives, apps, and modules. KBase narratives are notebooks used for analysis that are easily accessible by browser. The KBase apps are tools that scientists can use to assist in the analyzing of their data. Developers use the KBase Software Development Kit(SDK) who then make the source code for the modules which contain the apps. 
 
 <font size ="3">Activities and methods (including the institutional setting):</font>    
 
+In this project, I will be using a large language model similar to Chat GPT to create a KBase SDK virtual assistant. This project aims to improve the access to information such as the KBase SDK to make the process of creating modules more effortless. I will be developing this project using various programs such as Docker, JavaScript, POSIX shell, Python, React, and the internal KBase APIs on my computer via Visual Studio(VS) code located in the Computational Science Initiative(CSI) at Brookhaven National Laboratory(BNL). [This is where I discuss more about the different tools I will be using.]
+
+
 <font size ="3">Accomplishments(What measurements were taken? What data was collected? What did you find out?):</font>    
 
+[This is where I will discuss my accomplishments from this project.]
+
 <font size ="3">Impact(s) or relevance(of your work on the BNL mission, a BNL researchprogram, and/or a DOE program(s) or mission):</font>    
+The work of KBase is relevant to the Department of Energy’s mission driving of force of collaboration between DOE scientists and working to improve the speed of scientific discovery. 
 
 <font size ="3">Professional growth and development(resulting from your internship):</font>  
+
+[This is where I will discuss my professional growth and development.]
 
