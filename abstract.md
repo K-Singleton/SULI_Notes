@@ -31,6 +31,7 @@ In this project, I will be using a large language model similar to Chat GPT to c
 [This is where I will discuss my accomplishments from this project.]
 
 <font size ="3">Impact(s) or relevance(of your work on the BNL mission, a BNL researchprogram, and/or a DOE program(s) or mission):</font>    
+
 The work of KBase is relevant to the Department of Energy’s mission driving of force of collaboration between DOE scientists and working to improve the speed of scientific discovery. 
 
 <font size ="3">Professional growth and development(resulting from your internship):</font>  
