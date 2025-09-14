@@ -8,23 +8,17 @@ Briefly describe the project in one to three sentences.
 - Why it matters or what you learned from it  
 - Context: this project was created during an internship  
 
----
-
 ## Languages & Technologies
 
 - Python  
 - SQL  
 - [Other tools or libraries, if any]  
 
----
-
 ## Features
 
 - Feature 1  
 - Feature 2  
 - Feature 3  
-
----
 
 ## Usage / How to Explore
 
@@ -35,14 +29,10 @@ Briefly describe the project in one to three sentences.
 
 - Your Name  
 
----
-
 ## Mentorship / Acknowledgements
 
 - Projects completed under the guidance of [Mentor Name] during the internship at [Company Name].  
 - Special thanks to [Other Contributors, if any] for their support.
-
----
 
 ## References
 
